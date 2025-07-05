@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sumit Vitthal Satre
 
 🎓 **B.E. in Information Technology** | CGPA: 8.50/10  
-💻 **R&D Software Engineer | Full Stack Developer | DSA Enthusiast**
+💻 **Full Stack Developer | DSA Enthusiast**
 
 ---
 
