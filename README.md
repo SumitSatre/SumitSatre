@@ -22,7 +22,7 @@
 
 ## 🛠️ Tech Stack
 
-`Node.js` | `Express.js` | `MongoDB` | `Flutter` | `JavaScript` | `Java` | `AWS` | `Git` | `Postman`
+`Node.js` | `Express.js` | `MongoDB` | `Flutter` | `JavaScript` | `Java` | `Python` | `AWS` | `Git` | `Postman`
 
 ---
 
